@@ -1,0 +1,28 @@
+.main {
+    background-color: gray;
+}
+.input-div {
+    width: 50%;
+    color: black;
+    background-color: black;
+    padding: 60px;
+    position: relative;
+    left: 25%;
+    top: 80px;
+    border-radius: 15px;
+    text-align: center;
+}
+.input-header{
+    color: blanchedalmond;
+    padding-bottom: 25px;
+}
+.output-header{
+    padding-top: 25px;
+    color: blanchedalmond;
+}
+
+#test{
+    background-color: white;
+    border-radius: 5px;
+    height: 40px;
+}
